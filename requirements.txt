@@ -1,0 +1,7 @@
+python==3.7
+django==3.0.3
+asgiref==3.2.10.0.13
+pip==10.0.1
+pytz==2019.3
+setuptools==39.1.0
+sqlparse==0.3.0
